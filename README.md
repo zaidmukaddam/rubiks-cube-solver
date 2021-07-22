@@ -4,7 +4,7 @@
 
 ## Play It
 
-
+[rubiks-cube-solver](https://zaidmukaddam.github.io/rubiks-cube-solver/)
 
 
 &nbsp;
